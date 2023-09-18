@@ -1,0 +1,21 @@
+
+//// Commandes basiques : ////
+
+$ : envoi d'un message privé
+utilisation : $pseudo_a_qui_envoyer message a envoyer
+
+$fin : quitter le serveur
+utilisation : tapez fin dans le terminal
+
+
+//// Commandes fichiers : ////
+
+$send : envoyer un fichier au serveur
+utilisation : tapez simplement "send" /!\ il faut que le fichier a envoyer soit dans le dossier "aEnvoyer"
+
+$dispo : renvoie une liste des tous les fichiers disponibles sur le serveur
+utilisation : tapez simplement "dispo"
+
+$download : télécharger un fichier disponible sur le serveur 
+utilisation : tapez "download" puis suivez les instructions données
+
